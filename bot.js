@@ -35,7 +35,7 @@ client.user.setGame(`صيآنة`,"http://twitch.tv/S-F")
 
 client.on('ready', function(){    
     var ms = 40000 ;    
-    var setGame = [` NawaF : `," #24 Hours"];    
+    var setGame = [` Abo0d_ : `," #24 Hours"];    
     var i = -1;    
     var j = 0;    
     setInterval(function (){    
